@@ -1,0 +1,12 @@
+Package: Hw2Package
+Type: Package
+Title: Homework 2 functions
+Version: 0.1.0
+Author: Nick Moshgat
+Maintainer: Nick Moshgat
+Description: Various functions used in homework 2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rlang
